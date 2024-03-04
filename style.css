@@ -2,4 +2,19 @@
 
 body {
     font-family: "CloisterBlack", "Blackletter";
+    background-color:black;
+}
+
+.header {
+    font-weight:bold;
+    font-size: 48px;
+    background-color:ghostwhite;
+    color:maroon;
+    text-decoration:double;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    flex:1;
+
 }
