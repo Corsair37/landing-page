@@ -1,0 +1,2 @@
+The final test for all things flexbox. 
+This landing page project is essentially the culmination of all the knowledge I have learned about flexbox in the past week, including practically everything in css, or at least everything that has to do with the basics.
