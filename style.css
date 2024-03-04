@@ -1,7 +1,5 @@
-@font-face {
-    font-family:"Cloister Black","Blackletter";
-    src:url(https://www.fontspace.com/collection/corsairfont-cypnygx)
-}
+@import url(font.css);
+
 body {
     font-family:"Cloister Black", "Blackletter";
 }
