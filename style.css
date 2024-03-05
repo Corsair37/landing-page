@@ -41,6 +41,8 @@ h2 {
 h3 {
     font-family:"Chronica";
     font-size:36px;
+    text-decoration: solid;
+    text-decoration-color: maroon;
 }
 
 .stepsbox {
@@ -60,6 +62,7 @@ h3 {
     flex-direction:column;
     justify-content:space-evenly;
     align-items:center;
+    padding:4px;
 
 }
 
