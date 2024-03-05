@@ -6,8 +6,6 @@ body {
 }
 
 .header {
-    font-weight:bold;
-    font-size: 48px;
     background-color:ghostwhite;
     color:maroon;
     text-decoration:double;
@@ -16,5 +14,14 @@ body {
     justify-content:center;
     align-items:center;
     flex:1;
+}
 
+h1 {
+    font-weight:bold;
+    font-size: 48px;
+}
+
+h2 {
+    font-weight:bold;
+    font-size:36px;
 }
