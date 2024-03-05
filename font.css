@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: "BlackletterBold";
+    src:url(BlackletterExtrabold-51DV.ttf)
+}
+
+@font-face {
     font-family: "CloisterBlack";
     src: url(CloisterBlackLight-axjg.ttf)
 }
