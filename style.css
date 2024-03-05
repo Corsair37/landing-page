@@ -1,7 +1,7 @@
 @import url(font.css);
 
 body {
-    background-color:black;
+    background-color:ghostwhite;
     display:flex;
     flex-direction:column;
     justify-content:space-between;
@@ -10,7 +10,7 @@ body {
 }
 
 .header {
-    background-color:ghostwhite;
+    background-color:lightgrey;
     color:maroon;
     font-family:"BlackletterBold";
     display:flex;
@@ -37,7 +37,7 @@ h2 {
     display:flex;
     justify-content:center;
     width:300px;
-    background-color: ghostwhite;
+    background-color: lightgrey;
 }
 
 h3 {
@@ -50,18 +50,24 @@ h3 {
     flex-direction:row;
     justify-content:space-evenly;
     flex:1;
+    gap:16px;
 }
 
 .step {
-    background-color:white;
+    background-color:lightgray;
     border-color:maroon;
     border-width:4px;
+    border-style:solid;
     text-wrap:wrap;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+    
 }
 
 p {
     font-family:"Pemanka";
-    font-size:16px;
+    font-size:24px;
     font-weight:bold;
 
 }
