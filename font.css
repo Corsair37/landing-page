@@ -12,3 +12,13 @@
     font-family: "CloisterBlack";
     src: url(CloisterBlackLight-axjg.ttf)
 }
+
+@font-face {
+    font-family: "Chronica";
+    src: url(ChronicaRegular-owr14.ttf)
+}
+
+@font-face {
+    font-family: "Pemanka";
+    src: url(PemankaRegular-G3J6q.otf)
+}
