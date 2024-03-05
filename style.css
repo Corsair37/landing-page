@@ -1,8 +1,8 @@
 @import url(font.css);
 
 body {
-    font-family: "CloisterBlack", "Blackletter";
     background-color:black;
+    font-family:"Blackletter";
 }
 
 .header {
@@ -10,10 +10,11 @@ body {
     color:maroon;
     text-decoration:double;
     display:flex;
-    flex-direction:row;
+    flex-direction:column;
     justify-content:center;
     align-items:center;
     flex:1;
+    flex-wrap:nowrap;
 }
 
 h1 {
