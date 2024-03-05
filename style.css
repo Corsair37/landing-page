@@ -84,7 +84,9 @@ p {
     border-style:solid;
     background-color: black;
     font-style: italic;
+    font-size:36px;
     text-decoration:underline white;
-    color:maroon;
+    color:ghostwhite;
+    padding:8px;
 
 }
