@@ -73,3 +73,17 @@ p {
 
 }
 
+.ctabutton {
+    display:flex;
+    flex:1;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+    border-width:2px;
+    border-color:maroon;
+    background-color: black;
+    font-style: italic;
+    text-decoration:underline white;
+    color:maroon;
+
+}
